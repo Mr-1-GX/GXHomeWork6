@@ -38,9 +38,12 @@
 }
 .conteiner {
 	width: 1323px;
-	margin: 0 52px 0 138px; 
+	margin: 0 52px 52px 138px; 
 }
 .box-1 {
+	width: 636px;
+}
+.box-2 {
 	width: 636px;
 }
 .text-box {
