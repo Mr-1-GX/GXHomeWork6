@@ -30,6 +30,22 @@
 .banner-img {
 	margin-top: 123px;
 }
+.banner-box {
+	width: 306px;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+
+}
+.h3 {
+	color: #FFFFFF;
+	size: 22px;
+
+}
+.h1 {
+	color: #FFFFFF;
+	size: 48px;
+}
 .h4-box {
 	margin: 84px 0 81px 172px;
 }
