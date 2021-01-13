@@ -43,6 +43,7 @@
 }
 .banner-img {
     position: relative;
+    margin: 123px 0 0 0;
 }
 .banner-p1 {
 	color: #FFFFFF;
@@ -119,6 +120,7 @@
 	transform: translate(-50%);
 	background-color: #FF7A00;
 	display: inline-block;
+	margin: 0 0 134px 0;
 }
 .load-text {
 	position: absolute;
@@ -137,7 +139,6 @@
 }
 /*footer*/
 .footer-container {
-	
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%, -50%);
@@ -167,6 +168,14 @@
 .footer-icon {
 	height: 35px;
 	margin: 24px 0 0 14px;
+}
+.copy-box {
+    margin: 160px 0 0 0;
+}
+.copy-text {
+	font-size: 16px;
+	color: #A4A4A4;
+	font-family: 'Poppins-R';
 }
 
 
